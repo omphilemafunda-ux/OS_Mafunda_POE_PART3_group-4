@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Eco-Friendly All-Purpose Cleaner",
+        "description": "A versatile cleaner for everyday household surfaces.",
+        "category": "cleaning",
+        "price": 85,
+        "image": "images/all-purpose-cleaner.jpeg"
+    },
+    {
+        "name": "Natural Dishwashing Liquid",
+        "description": "A cleaning liquid for washing dishes and kitchen items.",
+        "category": "cleaning",
+        "price": 65,
+        "image": "images/dishwasher-liquid.jpeg"
+    },
+    {
+        "name": "Reusable Cleaning Cloths",
+        "description": "Reusable cloths for everyday cleaning tasks.",
+        "category": "accessories",
+        "price": 45,
+        "image": "images/dish-cloths.jpeg"
+    }
+]
