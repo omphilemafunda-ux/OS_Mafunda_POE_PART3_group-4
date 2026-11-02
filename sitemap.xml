@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://YOUR-WEBSITE-URL/index.html</loc>
+    </url>
+
+    <url>
+        <loc>https://127.0.0.1:5500/My_Project/about_us.html</loc>
+    </url>
+
+    <url>
+        <loc>https://127.0.0.1:5500/My_Project/services.html</loc>
+    </url>
+
+    <url>
+        <loc>https://127.0.0.1:5500/My_ProjectL/products.html</loc>
+    </url>
+
+    <url>
+        <loc>https://127.0.0.1:5500/My_Project/enquiry.html</loc>
+    </url>
+
+    <url>
+        <loc>https://127.0.0.1:5500/My_Project/contact.html</loc>
+    </url>
+
+</urlset>
