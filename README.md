@@ -1,7 +1,5 @@
 # OS_Mafunda_ST10524044 ECO_GLOW_CLEANING_SOLUTIONS_POE_PART3_group-4
 
-# Eco Glow Cleaning Solutions Website
-
 ## 1. Project Title
 
 **Eco Glow Cleaning Solutions – WEDE5020 POE**
